@@ -2,7 +2,6 @@ def instantiate_new_array
   my_new_array = []
   return my_new_array
 end
-
 def array_with_two_elements
   array_with_two_elements = ["Welcome to New York","two"]
 end
@@ -24,4 +23,3 @@ end
 def length_of_array(array)
   array.length
 end
-  
