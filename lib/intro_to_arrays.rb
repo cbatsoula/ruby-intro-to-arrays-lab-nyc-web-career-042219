@@ -10,5 +10,5 @@ def first_element(array)
   array_with_two_elements[0]
 end
 def third_element(array)
-  taylor_swift[2]
+  my_third_element[2]
 end
