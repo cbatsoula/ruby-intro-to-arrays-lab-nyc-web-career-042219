@@ -16,5 +16,5 @@ def last_element(array)
   array[-1]
 end
 def first_element_with_array_methods(array)
-  arrat[]
+  array.index("Welcome to New York")
 end
